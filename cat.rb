@@ -4,6 +4,6 @@ class Cat
   end
 
   def noise
-    puts 'Wuff!'
+    puts 'test!'
   end
 end
