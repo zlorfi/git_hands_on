@@ -1,5 +1,5 @@
 class Dog < Animal
-  def initialize(name, gender)
+  def initialize(name = 'Lotte', gender)
     super
     @pet = true
   end
