@@ -1,9 +1,9 @@
 class Cat
-  def initialize(name = 'Mr. Fluffypants')
+  def initialize(name = 'Mr. Mute')
     @name = name
   end
 
   def noise
-    puts 'Miau!'
+    puts 'Wuff!'
   end
 end
