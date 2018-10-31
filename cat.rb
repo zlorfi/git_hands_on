@@ -1,5 +1,5 @@
 class Cat
-  def initialize(name = 'Mr. Fluffypants')
+  def initialize(name = 'Mr. FanxyFluffypants')
     @name = name
   end
 
