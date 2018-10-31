@@ -4,6 +4,6 @@ class Cat
   end
 
   def noise
-    puts 'Miau!'
+    puts 'Miau!!!'
   end
 end
